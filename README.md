@@ -19,3 +19,8 @@
 
 ![dog heart](image-heart.jpg)
 
+4. **LINE Analytics (LINE聊天分析)**
+
+- reference: https://ithelp.ithome.com.tw/articles/10273531
+- key words: jieba (中文分詞套件), cutecharts (可愛手繪風可視化圖表庫)
+

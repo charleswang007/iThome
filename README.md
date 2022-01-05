@@ -5,6 +5,7 @@
 1. **Middle Finger (Python比中指偵測)**
 
 - reference: https://ithelp.ithome.com.tw/articles/10265041
+- another (比愛心): https://ithelp.ithome.com.tw/articles/10268509
 - key words: MediaPipe (偵測手指), OpenCV (馬賽克製作), [手指向量夾角](https://codechina.csdn.net/EricLee/handpose_x/-/issues/3)
 
 2. **Image to ASCII (Python圖片轉ASCII文字圖)**
@@ -30,3 +31,10 @@
 ```
 pyinstaller -F heart.py -i dog.ico
 ```
+
+6. **用Python做浪漫告白QR Code**
+
+- reference: https://ithelp.ithome.com.tw/articles/10269727
+- keywords: qrcode, PIL
+
+![qrcode](qrcode.png)

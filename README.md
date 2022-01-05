@@ -24,3 +24,9 @@
 - reference: https://ithelp.ithome.com.tw/articles/10273531
 - key words: jieba (中文分詞套件), cutecharts (可愛手繪風可視化圖表庫)
 
+5. **Python 執行檔**
+
+- reference: https://ithelp.ithome.com.tw/articles/10260055
+```
+pyinstaller -F heart.py -i dog.ico
+```

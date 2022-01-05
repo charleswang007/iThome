@@ -12,3 +12,10 @@
 - reference: https://ithelp.ithome.com.tw/articles/10263957
 - key words: OpenCV, Gray Scale
 
+1. **Image Heart (愛心照片牆)**
+
+- reference: https://ithelp.ithome.com.tw/articles/10263529
+- key words: PIL
+
+![dog heart](image-heart.jpg)
+

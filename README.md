@@ -38,3 +38,14 @@ pyinstaller -F heart.py -i dog.ico
 - keywords: qrcode, PIL
 
 ![qrcode](qrcode.png)
+
+7. **30天手把手帶你趣學Azure**
+
+- reference: https://ithelp.ithome.com.tw/articles/10201831
+- Azure實作坊1：工程師交友小工具(Azure Functions)
+- Azure實作坊2：交友任務TODO LIST(Azure Functions)
+- Azure實作坊3：打造推特文章情緒警示系統(Logic App)
+- Azure實作坊4：打造Uber的臉部會員登入服務(Logic App)
+- Azure實作坊5：自然語言情感分析引擎(Azure Machine Learning Studio)
+- Azure實作坊6：職場安全即時監控及簡單實作(Cognitive Service)
+- key words: Advanced REST client (ARC), queue/table storage, logic apps, devops board
